@@ -1,5 +1,5 @@
 cat > "${FULL_PATH}/README.md" << EOL
-# Dia ${01}: ${função-soma}
+# Dia ${02}: ${matriz e soma de numeros inteiros}
 
 
 
