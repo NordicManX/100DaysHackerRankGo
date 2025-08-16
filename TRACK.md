@@ -10,7 +10,6 @@
 - [x] **Dia 02:**[simpleArraySum](days/day02-simpleArraySum/) - _Resolvido em 16/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 02 com sucesso](./assets/day02.png) - _resolvido em 16/08/2025
->>>>>>> 9b6bf7ed0bc431fa9359b4992c1e6542f8179e77
 - [ ] **Dia 03:**
 - [ ] **Dia 04:**
 - [ ] **Dia 05:**
