@@ -1,7 +1,7 @@
 # 100DaysHackerRankGo
 
 <p align="center">
-  <img src="https://blog.golang.org/gopher/gopher.png" width="300" alt="Go Gopher">
+  <img src="https://cdn.britannica.com/44/260944-050-7653AA68/go-gopher-go-programming-language-by-google.jpg" width="900" alt="Go Gopher">
 </p>
 
 ## Bem-vindo(a) ao meu Desafio #100DaysOfCode com a Linguagem Go!
