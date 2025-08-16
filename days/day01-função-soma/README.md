@@ -1,4 +1,4 @@
-cat > "${FULL_PATH}/README.md" << EOL
+
 # Dia ${01}: ${função-soma}
 
 
