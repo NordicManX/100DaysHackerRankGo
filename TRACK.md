@@ -12,5 +12,8 @@
 * ![Submissão do Dia 01 com sucesso](./assets/day02.png)
 - [ ] **Dia 03:**
 - [ ] **Dia 04:**
-...
+- [ ] **Dia 05:**
+- [ ] **Dia 06:**
+- [ ] **Dia 07:**
+
 - [ ] **Dia 100:**
