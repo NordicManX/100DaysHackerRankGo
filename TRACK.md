@@ -10,7 +10,9 @@
 - [x] **Dia 02:**[simpleArraySum](days/day02-simpleArraySum/) - _Resolvido em 16/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 02 com sucesso](./assets/day02.png)
-- [ ] **Dia 03:**
+- [x] **Dia 03:** [comparetheTriplets](days/day03-compareTheTriplets/) - _Resolvido em 17/08/2025_
+* Screenshot da resolução:
+* ![Submissão do Dia 03 com sucesso](./assets/day03.png)
 - [ ] **Dia 04:**
 - [ ] **Dia 05:**
 - [ ] **Dia 06:**
