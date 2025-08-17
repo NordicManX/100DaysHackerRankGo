@@ -1,17 +1,24 @@
 #!/bin/bash
 
 if [ "$#" -ne 2 ]; then
-    echo "Uso: $0 02 matriz de inteiros e soma"
-    echo "Exemplo: $0 02 simpleArraySum"
+    echo "Uso: $0 03 'compare os trigemeos'"
+    echo "Exemplo: $0 03 compareTheTriplets"
     exit 1
 fi
 
-DAY_NUMBER=$(printf "%02d" $1) 
-PROBLEM_NAME="$2"
-FOLDER_NAME="day${DAY_NUMBER}-${PROBLEM_NAME}"
+SCRIPT_DIR=$(dirname "$0")
+
+DAY_NUMBER=$(printf "%02d" $1)
+PROBLEM_TITLE="$2"
 
 
-FULL_PATH="../days/${FOLDER_NAME}"
+PROBLEM_NAME_FOR_FOLDER=$(echo "$PROBLEM_TITLE" | tr ' ' '-')
+
+FOLDER_NAME="day${DAY_NUMBER}-${PROBLEM_NAME_FOR_FOLDER}"
+
+FULL_PATH="${SCRIPT_DIR}/../days/${FOLDER_NAME}"
+
+
 
 if [ -d "$FULL_PATH" ]; then
     echo "Erro: A pasta ${FULL_PATH} já existe."
@@ -23,7 +30,7 @@ mkdir -p "$FULL_PATH"
 touch "${FULL_PATH}/main.go"
 
 cat > "${FULL_PATH}/README.md" << EOL
-# Dia ${DAY_NUMBER}: ${PROBLEM_NAME}
+# Dia ${DAY_NUMBER}: ${PROBLEM_TITLE}
 
 ### Enunciado Resumido
 
