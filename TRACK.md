@@ -13,7 +13,9 @@
 - [x] **Dia 03:** [comparetheTriplets](days/day03-compareTheTriplets/) - _Resolvido em 17/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 03 com sucesso](./assets/day03.png)
-- [ ] **Dia 04:**
+- [x] **Dia 04:** [AVeryBigSum](./days/day04-day04-AVeryBigSum/) - _Resolvido em 18/08/2025_
+* Screenshot da resolução:
+* ![Submissão do Dia 04 com sucesso](./assets/day04.png)
 - [ ] **Dia 05:**
 - [ ] **Dia 06:**
 - [ ] **Dia 07:**
