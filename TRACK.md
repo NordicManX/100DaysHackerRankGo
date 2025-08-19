@@ -18,7 +18,7 @@
 * ![Submissão do Dia 04 com sucesso](./assets/day04.png)
 - [x] **Dia 05:** [diagonalDifference](days/day05-DiagonalDifference/)
 * Screenshot da resolução:
-* ![Submissão do Dia 04 com sucesso](./assets/day05.png)
+* ![Submissão do Dia 05 com sucesso](./assets/day05.png)
 - [ ] **Dia 06:**
 - [ ] **Dia 07:**
 
