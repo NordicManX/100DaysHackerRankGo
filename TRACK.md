@@ -16,7 +16,9 @@
 - [x] **Dia 04:** [AVeryBigSum](./days/day04-day04-AVeryBigSum/) - _Resolvido em 18/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 04 com sucesso](./assets/day04.png)
-- [ ] **Dia 05:**
+- [x] **Dia 05:** [diagonalDifference](days/day05-DiagonalDifference/)
+* Screenshot da resolução:
+* ![Submissão do Dia 04 com sucesso](./assets/day05.png)
 - [ ] **Dia 06:**
 - [ ] **Dia 07:**
 
