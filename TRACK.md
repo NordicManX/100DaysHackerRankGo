@@ -2,7 +2,7 @@
 
 
 
-## Dias Concluídos: 6/100
+
 
 - [x] **Dia 01:** [função-soma](days/day01-função-soma/) - _Resolvido em 15/08/2025_
 * Screenshot da resolução:

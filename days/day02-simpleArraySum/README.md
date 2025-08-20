@@ -1,5 +1,9 @@
 cat > "${FULL_PATH}/README.md" << EOL
+<<<<<<< HEAD
+# Dia ${02}: ${matriz e soma de numeros inteiros}
+=======
 # Dia ${02}: ${simpleArraySum}
+>>>>>>> 3984ec279c7c4826ce320b0cba7ad2ed08f5eafb
 
 
 
