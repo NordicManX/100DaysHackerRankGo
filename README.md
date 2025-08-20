@@ -1,7 +1,7 @@
 # 100DaysHackerRankGo
 
 <p align="center">
-  <img src="https://blog.golang.org/gopher/gopher.png" width="300" alt="Go Gopher">
+  <img src="https://cdn.britannica.com/44/260944-050-7653AA68/go-gopher-go-programming-language-by-google.jpg" width="300" alt="Go Gopher">
 </p>
 
 ## Bem-vindo(a) ao meu Desafio #100DaysOfCode com a Linguagem Go!
@@ -12,6 +12,10 @@ Este repositório documenta minha jornada de 100 dias dedicados ao aprendizado e
 
 ## 🎯 Objetivos Principais
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Go_gopher_app_engine_color.jpg" width="150" alt="Go Gopher">
+</p>
+
 -   **Consistência:** Criar o hábito diário de estudar e praticar Go.
 -   **Fundamentos Sólidos:** Dominar os conceitos fundamentais da linguagem, desde a sintaxe básica até tópicos mais avançados como concorrência.
 -   **Projetos Práticos:** Construir aplicações reais e úteis para aplicar o conhecimento adquirido.
@@ -20,6 +24,10 @@ Este repositório documenta minha jornada de 100 dias dedicados ao aprendizado e
 ---
 
 ## 📜 Regras do Desafio
+
+<p align="center">
+  <img src="https://forum.golangbridge.org/uploads/default/optimized/2X/0/03cbc1a9f9178055093eb0c25ba9df2c29611671_2_500x500.jpg" width ="150" alt="Go Gopher">
+</p>
 
 1.  **Codificar no mínimo 1 hora por dia:** Durante os próximos 100 dias.
 2.  **Foco em Go:** Os projetos e estudos serão exclusivamente em Go.
@@ -51,6 +59,10 @@ Uma lista de recursos que estou utilizando durante minha jornada.
     -   [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) (Oficial da Equipe Go)
 -   **IDE Alternativa:** [GoLand IDE](https://www.jetbrains.com/go/)
 -   **Controle de Versão:** [Git](https://git-scm.com/) & [GitHub](https://github.com/)
+
+<p align="right">
+  <img width="150" src="https://raw.github.com/golang-samples/gopher-vector/master/gopher-side_color.png"/>
+</p>
 
 ---
 
