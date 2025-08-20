@@ -16,10 +16,12 @@
 - [x] **Dia 04:** [AVeryBigSum](./days/day04-day04-AVeryBigSum/) - _Resolvido em 18/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 04 com sucesso](./assets/day04.png)
-- [x] **Dia 05:** [diagonalDifference](days/day05-DiagonalDifference/)
+- [x] **Dia 05:** [diagonalDifference](days/day05-DiagonalDifference/) - _Resolvido em 19/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 05 com sucesso](./assets/day05.png)
-- [ ] **Dia 06:**
+- [x] **Dia 06:** [Staircase](./days/day06-staircase/) - _Resolvido em 20/08/2025_
+* Screenshot da resolução:
+* ![Submissão do Dia 06 com sucesso](./assets/day06.png)
 - [ ] **Dia 07:**
 
 - [ ] **Dia 100:**
