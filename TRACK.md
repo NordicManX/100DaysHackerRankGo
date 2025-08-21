@@ -22,6 +22,17 @@
 - [x] **Dia 06:** [Staircase](./days/day06-staircase/) - _Resolvido em 20/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 06 com sucesso](./assets/day06.png)
-- [ ] **Dia 07:**
-
-- [ ] **Dia 100:**
+- [x] **Dia 07:** [PlusMinus](days/day07-PlusMinus/) - _Resolvido em 21/08/2025_
+* Screenshot da resolução:
+* ![Submissão do Dia 07 com sucesso](./assets/day07.png)
+- [ ] **Dia 08:**
+- [ ] **Dia 09:**
+- [ ] **Dia 10:**
+- [ ] **Dia 11:**
+- [ ] **Dia 12:**
+- [ ] **Dia 13:**
+- [ ] **Dia 14:**
+- [ ] **Dia 15:**
+- [ ] **Dia 16:**
+- [ ] **Dia 17:**
+- [ ] **Dia 18:**
