@@ -25,7 +25,9 @@
 - [x] **Dia 07:** [PlusMinus](days/day07-PlusMinus/) - _Resolvido em 21/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 07 com sucesso](./assets/day07.png)
-- [ ] **Dia 08:**
+- [x] **Dia 08:** [MiniMax-Sum](./assets/day08.png) - _Resolvido em 22/08/2025_
+* Screenshot da resolução:
+* ![Submissão do Dia 08 com sucesso](./assets/day08.png)
 - [ ] **Dia 09:**
 - [ ] **Dia 10:**
 - [ ] **Dia 11:**
