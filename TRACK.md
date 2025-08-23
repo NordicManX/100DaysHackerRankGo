@@ -28,7 +28,9 @@
 - [x] **Dia 08:** [MiniMax-Sum](./assets/day08.png) - _Resolvido em 22/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 08 com sucesso](./assets/day08.png)
-- [ ] **Dia 09:**
+- [x] **Dia 09:** [BirthdayCakeCandles](./days/day09-Birthday-Cake-Candles) - _Resolvido em 23/08/2025_
+* Screenshot da resolução:
+* ![Submissão do Dia 09 com sucesso](./assets/day09.png)
 - [ ] **Dia 10:**
 - [ ] **Dia 11:**
 - [ ] **Dia 12:**
