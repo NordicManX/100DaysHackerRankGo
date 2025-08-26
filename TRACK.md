@@ -2,7 +2,7 @@
 
 
 
-## Dias Concluídos: 10/100 --(falha dia 10, acrescentar + 10 dias no final do desafio)
+## Dias Concluídos: 11/100 --(falha dia 10, acrescentar + 10 dias no final do desafio)
 
 - [x] **Dia 01:** [função-soma](days/day01-função-soma/) - _Resolvido em 15/08/2025_
 * Screenshot da resolução:
