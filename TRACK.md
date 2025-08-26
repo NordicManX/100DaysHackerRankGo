@@ -25,16 +25,18 @@
 - [x] **Dia 07:** [PlusMinus](days/day07-PlusMinus/) - _Resolvido em 21/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 07 com sucesso](./assets/day07.png)
-- [ ] **Dia 08:** [PlusMinus](days/day08-MiniMax-Sum/) - _Resolvido em 22/08/2025_
+- [x] **Dia 08:** [PlusMinus](days/day08-MiniMax-Sum/) - _Resolvido em 22/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 08 com sucesso](./assets/day08.png)
-- [ ] **Dia 09:** [PlusMinus](days/day09-Birthday-Cake-Candles/) - _Resolvido em 23/08/2025_
+- [x] **Dia 09:** [PlusMinus](days/day09-Birthday-Cake-Candles/) - _Resolvido em 23/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 09 com sucesso](./assets/day09.png)
-- [ ] **Dia 10:** [PlusMinus](days/day10-TimeConversion/) - _Resolvido em 25/08/2025_    _😢🤬🤬_
+- [x] **Dia 10:** [PlusMinus](days/day10-TimeConversion/) - _Resolvido em 25/08/2025_    _😢🤬🤬_
 * Screenshot da resolução:
 * ![Submissão do Dia 10 com sucesso](./assets/day10.png)
-- [ ] **Dia 11:**
+- [x] **Dia 11:**[PlusMinus](days/day11-gradingStudents/) - _Resolvido em 25/08/2025_
+* Screenshot da resolução:
+* ![Submissão do Dia 11 com sucesso](./assets/day11.png)
 - [ ] **Dia 12:**
 - [ ] **Dia 13:**
 - [ ] **Dia 14:**
