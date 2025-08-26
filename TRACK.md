@@ -25,10 +25,10 @@
 - [x] **Dia 07:** [PlusMinus](days/day07-PlusMinus/) - _Resolvido em 21/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 07 com sucesso](./assets/day07.png)
-- [x] **Dia 08:** [PlusMinus](days/day08-MiniMax-Sum/) - _Resolvido em 22/08/2025_
+- [x] **Dia 08:** [MiniMax-Sum](days/day08-MiniMax-Sum/) - _Resolvido em 22/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 08 com sucesso](./assets/day08.png)
-- [x] **Dia 09:** [PlusMinus](days/day09-Birthday-Cake-Candles/) - _Resolvido em 23/08/2025_
+- [x] **Dia 09:** [Birthday-Cakes-Candles](days/day09-Birthday-Cake-Candles/) - _Resolvido em 23/08/2025_
 * Screenshot da resolução:
 * ![Submissão do Dia 09 com sucesso](./assets/day09.png)
 - [x] **Dia 10:** [TimeConvertion](days/day10-TimeConversion/) - _Resolvido em 25/08/2025_    _😢🤬🤬_
