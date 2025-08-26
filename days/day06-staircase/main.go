@@ -10,7 +10,6 @@ import (
 )
 
 func staircase(n int32) {
-	// Write your code here
 
 	size := int(n)
 
